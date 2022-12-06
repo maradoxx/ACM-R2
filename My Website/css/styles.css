@@ -1,0 +1,94 @@
+div{
+    background-color: #E4F9F5;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px; 
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625em;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 100%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+h4 {
+        font-family: 'Montserrat', sans-serif;
+        color: #11999E;
+        align-items: left;
+    
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a.hover {
+    color: #eaf6f6
+}
+
+.top {
+    position: relative;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.bottom {
+    position: absolute;
+}
+
+hr {
+
+    border-style:dotted none none;
+    color: grey;
+    width: 10%;
+    border-width: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+
+.prog {
+    width: 300px;
+    float: left;
+}
+
+.chess {
+    width: 300px;
+    float: right;
+}
+
+.bottom-container {
+    padding: 100px 1500px 30px 0;
+    background-color: #66BFBF;
+
+}
+
+
+.footer-link {
+
+    text-align: center;
+}
+
+
